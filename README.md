@@ -1,6 +1,6 @@
 
 
-📌 Coffee Ratings Analysis ☕️
+📌 Coffee Rating Analysis ☕️
 
 A beginner-friendly data project exploring global coffee ratings by country, using real data from the Coffee Quality Database.
 
