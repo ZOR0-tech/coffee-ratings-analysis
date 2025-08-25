@@ -5,7 +5,7 @@
 A beginner-friendly data project exploring global coffee ratings by country, using real data from the Coffee Quality Database.
 
 ✏️ 📊 What this project does
-⦁ Loads worldwide coffee ratings data
+⦁ Loads worldwide coffee ratings dataa
 ⦁ Cleans and summarizes the ratings
 ⦁ Visualizes the top 10 coffee-producing countries by average cup score
 
