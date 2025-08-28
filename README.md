@@ -12,7 +12,7 @@ A beginner-friendly data project exploring global coffee ratings by country, usi
 ✏️ 🚀 What I learned
 ⦁ Data cleaning and manipulation with pandas
 ⦁ Simple grouping and aggregation
-⦁ Basic data visualization with matplotlib
+⦁ Basic data visualization with matplotlibs
 
 ✏️ 📂 Files
 ⦁ coffee-ratings-analysis.ipynb – The complete Jupyter notebook
