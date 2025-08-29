@@ -10,7 +10,7 @@ A beginner-friendly data project exploring global coffee ratings by country, usi
 ⦁ Visualizes the top 10 coffee-producing countries by average cup scores
 
 ✏️ 🚀 What I learned
-⦁ Data cleaning and manipulation with pandas
+⦁ Data cleaning and manipulation with pandas....
 ⦁ Simple grouping and aggregation
 ⦁ Basic data visualization with matplotlibs
 
