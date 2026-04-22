@@ -7,7 +7,7 @@ A beginner-friendly data project exploring global coffee ratings by country, usi
 ✏️ 📊 What this project does
 ⦁ Loads worldwide coffee ratings data
 ⦁ Cleans and summarizes the ratings
-⦁ Visualizes the top 10 coffee-producing countries by average cup scores
+⦁ Visualizes the top 10 coffee-producing countries by average cup scores.....
 
 ✏️ 🚀 What I learned
 ⦁ Data cleaning and manipulation with pandas....
